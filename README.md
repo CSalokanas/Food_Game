@@ -1,1 +1,1 @@
-This is my international baccalaureate computer science internal assessment. A character moves along the X-axis to catch healthy foods and avoid unhealthy, the aim is to level up and win the game
+This is my international baccalaureate computer science internal assessment. The game is made using Tkinter, a character moves along the x-axis with buttonss "a" and "d", the aim of the game is to catch healthy foods and avoid unhealthy, With every level incriment the background changes and the speed of the foods dropping increases.
